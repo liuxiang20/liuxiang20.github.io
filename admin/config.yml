@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: ds19991999/ds19991999.github.io
+  repo: liuxiang20/liuxiang20.github.io
   branch: master # Branch to update (master by default)
 
 # display_url: 
