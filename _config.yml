@@ -778,3 +778,7 @@ version: 5.1.1
 
 footer:
   icon: heart
+
+# Online contact 
+daovoice: true
+daovoice_app_id: 6dba2a61
