@@ -494,7 +494,7 @@ livere_uid: MTAyMC8zODYzOS8xNTE2Nw==
 
 # 可以直接安装代码，不需要配置
 # Google Analytics
-google_analytics: UA-123686345-1
+#google_analytics: UA-123686345-1
 # 百度分析ID
 # baidu_analytics: e0f7e2879e5634cc0f587da6721b6860
 
@@ -778,7 +778,3 @@ version: 5.1.1
 
 footer:
   icon: heart
-
-# Online contact 
-daovoice: true
-daovoice_app_id: 6dba2a61
