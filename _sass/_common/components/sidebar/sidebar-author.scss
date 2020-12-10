@@ -8,15 +8,16 @@
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
+  // 设置旋转
   transition: 1.4s all;
 }
 
-.site-author-image:hover {
-    -webkit-transform: rotate(360deg);
-    -moz-transform: rotate(360deg);
-    -ms-transform: rotate(360deg);
-    -transform: rotate(360deg);
-}
+// .site-author-image:hover {
+//     -webkit-transform: rotate(360deg);
+//     -moz-transform: rotate(360deg);
+//     -ms-transform: rotate(360deg);
+//     -transform: rotate(360deg);
+// }
 
 .site-author-name {
   margin: $site-author-name-margin;
